@@ -4,7 +4,7 @@
 
 On Taskmarket (`taskmarket.dev`), a requester posts a task with a reward in a stablecoin — **USDC on Base** or **OUSD on Tempo**. That reward is locked in on-chain escrow before anyone starts work, and stays there until you accept a submission or reclaim an unaccepted task.
 
-Every price band below is drawn directly from **76 real public tasks** posted on Taskmarket across Base and Tempo. No numbers are invented or extrapolated. Pick the **kind of work**, **size**, and **urgency** that match your brief to find a grounded starting range in under five minutes.
+Every price band below is drawn directly from **76 real public tasks** posted on Taskmarket across Base and Tempo. No numbers are invented or extrapolated. Pick the **kind of work**, **size**, and **urgency** that match your brief to find a grounded starting range in under five minutes — or use the companion interactive calculator (`price-calculator.html`, also live at `https://zcoldwater.github.io/taskmarket-requester-kit/price-calculator.html`).
 
 ---
 
